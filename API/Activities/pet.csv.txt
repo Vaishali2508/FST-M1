@@ -1,0 +1,3 @@
+12345, Richel, alive
+10987, Albert, sold
+12986, John, alive
